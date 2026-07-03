@@ -1,4 +1,4 @@
-# 
+# Updated JetBrains PyCharm tools for Mac OS | Best JetBrains PyCharm tools for PC Windows. Featuring code-review and remote-development — optimized for maximum performance on every platform.
 
 
 
